@@ -1,0 +1,86 @@
+[2025-08-22 19:27:42,280 - INFO] - Welcome to the Online Codegnan Banking
+[2025-08-22 19:27:52,889 - INFO] - User credentials are 12345 and 6789
+[2025-08-22 19:27:52,889 - DEBUG] - User in login page
+[2025-08-22 19:27:52,890 - INFO] - User successfullt loggined
+[2025-08-22 19:27:52,892 - INFO] - 1. Balance
+2. Withdraw
+3. Deposit
+4. Transfer
+5. History
+6. Exit
+
+[2025-08-22 19:27:55,420 - INFO] - Selected Operation is 1
+[2025-08-22 19:27:55,420 - DEBUG] - User in Balance page
+[2025-08-22 19:27:55,420 - INFO] - 12345 user current balance is 10000
+[2025-08-22 19:27:55,421 - DEBUG] - User in login page
+[2025-08-22 19:27:55,421 - INFO] - User successfullt loggined
+[2025-08-22 19:27:55,423 - INFO] - 1. Balance
+2. Withdraw
+3. Deposit
+4. Transfer
+5. History
+6. Exit
+
+[2025-08-22 19:28:02,309 - INFO] - Selected Operation is .
+[2025-08-22 19:28:02,309 - DEBUG] - User in Withdraw page
+[2025-08-22 19:28:06,358 - INFO] - 5000 withdraw successful and current balance is 5000
+[2025-08-22 19:28:06,359 - DEBUG] - User in login page
+[2025-08-22 19:28:06,359 - INFO] - User successfullt loggined
+[2025-08-22 19:28:06,361 - INFO] - 1. Balance
+2. Withdraw
+3. Deposit
+4. Transfer
+5. History
+6. Exit
+
+[2025-08-22 19:28:17,628 - INFO] - Selected Operation is  
+[2025-08-22 19:28:17,628 - INFO] - User in deposit page
+[2025-08-22 19:28:21,529 - INFO] - 400 deposit successful and current balance is 5400
+[2025-08-22 19:28:21,530 - DEBUG] - User in login page
+[2025-08-22 19:28:21,530 - INFO] - User successfullt loggined
+[2025-08-22 19:28:21,533 - INFO] - 1. Balance
+2. Withdraw
+3. Deposit
+4. Transfer
+5. History
+6. Exit
+
+[2025-08-22 19:28:28,250 - INFO] - Selected Operation is B
+[2025-08-22 19:28:28,251 - DEBUG] - User in transfer page
+[2025-08-22 19:28:42,633 - INFO] - receiver account is 54321 and amount is 9876
+[2025-08-22 19:28:42,633 - WARNING] - Insufficient amount
+[2025-08-22 19:28:42,634 - DEBUG] - User in login page
+[2025-08-22 19:28:42,634 - INFO] - User successfullt loggined
+[2025-08-22 19:28:42,636 - INFO] - 1. Balance
+2. Withdraw
+3. Deposit
+4. Transfer
+5. History
+6. Exit
+
+[2025-08-22 19:28:51,739 - INFO] - Selected Operation is B
+[2025-08-22 19:28:51,739 - DEBUG] - User in transfer page
+[2025-08-22 19:28:59,338 - INFO] - receiver account is 54321 and amount is 1000
+[2025-08-22 19:28:59,339 - INFO] - 1000 transfer successful and current balance is 4400
+[2025-08-22 19:28:59,339 - DEBUG] - User in login page
+[2025-08-22 19:28:59,339 - INFO] - User successfullt loggined
+[2025-08-22 19:28:59,341 - INFO] - 1. Balance
+2. Withdraw
+3. Deposit
+4. Transfer
+5. History
+6. Exit
+
+[2025-08-22 19:29:05,626 - INFO] - Selected Operation is a
+[2025-08-22 19:29:05,626 - INFO] - User in history page
+[2025-08-22 19:29:05,626 - DEBUG] - User in login page
+[2025-08-22 19:29:05,626 - INFO] - User successfullt loggined
+[2025-08-22 19:29:05,628 - INFO] - 1. Balance
+2. Withdraw
+3. Deposit
+4. Transfer
+5. History
+6. Exit
+
+[2025-08-22 19:29:12,644 - INFO] - Selected Operation is l
+[2025-08-22 19:29:12,644 - INFO] - User in exit page
