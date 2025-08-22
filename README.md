@@ -12,5 +12,5 @@ It demonstrates core banking operations such as:
 --> Checking account balance     
 --> Depositing money    
 --> Withdrawing money    
-Transferring money between accounts  
+--> Transferring money between accounts  
 This project showcases Python basics, logic building, modular programming, and the ability to implement real-world concepts in a simple program.  
