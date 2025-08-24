@@ -13,4 +13,10 @@ It demonstrates core banking operations such as:
 --> Depositing money    
 --> Withdrawing money    
 --> Transferring money between accounts  
-This project showcases Python basics, logic building, modular programming, and the ability to implement real-world concepts in a simple program.  
+This project showcases Python basics, logic building, modular programming, and the ability to implement real-world concepts in a simple program. 
+
+EMAIL_SENDER PROJECT  
+
+A Python-based project that automates email sending using SMTP.   
+It supports both one-to-one and one-to-many messaging, making it perfect for sending alerts, notifications, or updates.  
+The project demonstrates secure email communication using Gmail servers with a simple menu-driven interface.  
