@@ -20,3 +20,11 @@ EMAIL_SENDER PROJECT
 A Python-based project that automates email sending using SMTP.   
 It supports both one-to-one and one-to-many messaging, making it perfect for sending alerts, notifications, or updates.  
 The project demonstrates secure email communication using Gmail servers with a simple menu-driven interface.  
+
+VIRTUAL_ASSISTANT  
+
+A lightweight Python-based virtual assistant that performs basic tasks using voice commands.  
+Features  
+Speech recognition for voice commands  
+Open websites and Notepad   
+Tell time  
