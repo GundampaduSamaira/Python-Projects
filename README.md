@@ -25,6 +25,6 @@ VIRTUAL_ASSISTANT
 
 A lightweight Python-based virtual assistant that performs basic tasks using voice commands.  
 Features  
-Speech recognition for voice commands  
-Open websites and Notepad   
-Tell time  
+--> Speech recognition for voice commands  
+--> Open websites and Notepad   
+--> Tell time  
